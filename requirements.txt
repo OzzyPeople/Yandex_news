@@ -1,0 +1,8 @@
+requests
+pandas
+bs4
+datetime
+numpy
+sqlalchemy
+pymysql
+pymongo
